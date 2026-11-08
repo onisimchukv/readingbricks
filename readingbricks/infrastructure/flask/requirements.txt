@@ -11,5 +11,5 @@ MarkupSafe==1.0
 misaka==2.1.0
 pycparser==2.18
 python-markdown-math==0.3
-Werkzeug==0.14.1
+Werkzeug==3.1.9
 
